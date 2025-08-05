@@ -3,14 +3,6 @@
 
 Welcome to a complete **production-ready** full stack template! This project combines powerful technologies to provide a seamless developer experience and robust architecture.
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Django-4.x-green?style=for-the-badge&logo=django"/>
-  <img src="https://img.shields.io/badge/React-18+-61DAFB?style=for-the-badge&logo=react"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-15-blue?style=for-the-badge&logo=postgresql"/>
-  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker"/>
-  <img src="https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx"/>
-</div>
-
 ---
 
 ### ✨ Features

@@ -1,0 +1,8 @@
+django
+djangorestframework
+djangorestframework-simplejwt
+python-dotenv
+Pillow
+django-cors-headers
+huggingface_hub
+gunicorn

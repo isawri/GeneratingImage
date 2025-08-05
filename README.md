@@ -55,7 +55,6 @@ SECRET_KEY=your_django_secret_key
 DEBUG=True
 ```
 
-> ⚠️ Do not commit your actual `.env` file to version control.
 
 ## Project Structure
 

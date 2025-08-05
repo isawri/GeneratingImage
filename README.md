@@ -1,4 +1,4 @@
-## 🚀 Django + React + PostgreSQL + Docker + Nginx
+## 🚀 Django + React + PostgreSQL + Docker 
 
 This template provides a **production-ready** full-stack web application using **Django**, **React**, **PostgreSQL**, **Docker**, and **Nginx**. It's designed to streamline development and deployment while ensuring a seamless experience with powerful technologies.
 

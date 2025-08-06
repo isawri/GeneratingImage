@@ -35,8 +35,7 @@ project-root/
 ├── Makefile # Shortcut commands for development tasks
 └── README.md # Project documentation
 
-yaml
-Copy
+
 
 ---
 
